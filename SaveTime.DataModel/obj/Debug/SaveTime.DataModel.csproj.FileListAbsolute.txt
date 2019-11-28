@@ -1,0 +1,5 @@
+C:\Users\ДжабашевН\source\repos\SaveTime\SaveTime.DataModel\bin\Debug\SaveTime.DataModel.dll
+C:\Users\ДжабашевН\source\repos\SaveTime\SaveTime.DataModel\bin\Debug\SaveTime.DataModel.pdb
+C:\Users\ДжабашевН\source\repos\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.csprojAssemblyReference.cache
+C:\Users\ДжабашевН\source\repos\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.dll
+C:\Users\ДжабашевН\source\repos\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.pdb
